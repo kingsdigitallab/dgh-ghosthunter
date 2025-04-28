@@ -1,4 +1,5 @@
 # The Digital Ghost Hunt
+## Created by Elliott Hall
 ### SEEK Ghost Detector Library
 
 This library is part of [The Digital Ghost Hunt](digitalghosthunt.com) an AHRC-funded project in coding education and Immersive theatre.  If you have no idea what that is, visit our website first.  The rest will make more sense.
